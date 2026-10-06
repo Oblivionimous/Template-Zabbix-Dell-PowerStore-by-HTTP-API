@@ -1,0 +1,1 @@
+# Template-Zabbix-Dell-PowerStore-by-HTTP-API
